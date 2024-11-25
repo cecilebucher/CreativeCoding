@@ -1,10 +1,10 @@
 
 color colorCenter = color(255,0,0);
-color colorPetals = color(255,255,0);
-
-float previousDist = 0;
 color c1 = color(255,0,0);
 color c2 = color(0,0,255);
+
+float previousDist = 0;
+
 
 void setup(){
 
