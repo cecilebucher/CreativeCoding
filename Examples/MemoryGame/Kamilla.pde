@@ -16,7 +16,7 @@ void drawKamilla0(PGraphics pg) {
   int c=0;
   while (s>0) {
     pg.fill (c, 0, 0);
-    pg.ellipse (boxWidth/2, 300, s, s);
+    pg.ellipse (500/2, 300, s, s);
 
     c=c+10;
     s=s-10;

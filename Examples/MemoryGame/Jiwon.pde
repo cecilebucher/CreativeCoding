@@ -5,6 +5,7 @@ void drawJiwon0(PGraphics pg) {
   rect(0, 0, boxWidth, boxHeight);
   int s = 200;
   int c = 255;
+  strokeWeight(1);
   while (s>0) {
     pushMatrix();
     rectMode(CENTER);
