@@ -74,7 +74,7 @@ void setup() {
 
   // use sound and load schlack.mp3 sound file (this file is in the data folder)
   minim = new Minim(this);
-  player = minim.loadFile("schlack.mp3", 2048);
+  player = minim.loadFile("schlack_CarlottaBorcherding.mp3", 2048);
 
   // change it as you wish
   scaleFactor = 0.7;
