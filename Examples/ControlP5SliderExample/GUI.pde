@@ -1,6 +1,6 @@
 /*
-*  Kunstuni TIME team
- *  Cécile - 2024
+ *  Kunstuni TIME team
+ *  Cécile 
  *
  *  GUI slider example
  *

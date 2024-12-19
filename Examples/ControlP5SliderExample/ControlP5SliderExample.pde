@@ -1,6 +1,6 @@
 /*
 *  Kunstuni TIME team
-*  Cécile - 2024
+*  Cécile
 *
 *  TODO: 
 *  - Install the ControlP5 library through the library manager
